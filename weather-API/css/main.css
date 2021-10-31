@@ -1,0 +1,19 @@
+
+#container{
+    justify-content: center;
+}
+
+.row{
+    padding-top: 50px;
+}
+
+body { 
+    background-image: url(https://res.cloudinary.com/dvavaunrm/image/upload/v1635537829/thunderbolt-1905603_kj7sxk.png); 
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+.form-label{
+    color: white;
+}
