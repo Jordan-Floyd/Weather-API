@@ -45,7 +45,7 @@ const loadData = async() =>{
     let humid = weatherData.main.humidity
     console.log(humid)
     let humidity = document.createElement('td')
-    humidity.innerHTML = humid
+    humidity.innerHTML = humid +'%'
     document.getElementById(`table-row-3`).append(humidity)
 
 };
